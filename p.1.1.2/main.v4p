@@ -1,0 +1,27 @@
+<!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv50beta35.dtd" >
+   <PATCH nodename="C:\Users\polyr\Development\creative\vvvv\patches\generative_exercises\p.1.1.2\main.v4p" systemname="main" filename="C:\Users\polyr\Development\creative\vvvv\patches\generative_exercises\p.1.1.2\main.v4p">
+   <BOUNDS type="Window" left="1455" top="3270" width="12585" height="7500">
+   </BOUNDS>
+   <NODE nodename="IOBox (String)" componentmode="InABox" id="0" systemname="IOBox (String)">
+   <BOUNDS type="Node" left="780" top="465" width="975" height="270">
+   </BOUNDS>
+   <BOUNDS type="Box" left="780" top="465" width="6765" height="855">
+   </BOUNDS>
+   <PIN pinname="Input String" visible="0" slicecount="1" values="|P.1.1.2&cr;&lf;Colour spectrum in a circle|">
+   </PIN>
+   <PIN pinname="Output String" visible="0">
+   </PIN>
+   <PIN pinname="Show Grid" slicecount="1" values="0">
+   </PIN>
+   <PIN pinname="String Type" slicecount="1" values="MultiLine">
+   </PIN>
+   <PIN pinname="Font" slicecount="1" values="Terminal">
+   </PIN>
+   <PIN pinname="Size" slicecount="1" values="21">
+   </PIN>
+   </NODE>
+   <PACK Name="ÎmagePack" Version="0.2.0">
+   </PACK>
+   <PACK Name="addonpack" Version="35.0.0">
+   </PACK>
+   </PATCH>
